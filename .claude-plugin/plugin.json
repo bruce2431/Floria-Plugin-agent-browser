@@ -1,0 +1,9 @@
+{
+  "name": "agent-browser",
+  "version": "0.2.0",
+  "description": "浏览器自动化 MCP：直接使用 agent-browser CLI 自带的 MCP stdio 服务（core profile，33 个工具：导航/快照/交互/等待/读取/截图/标签页/saved flows），复用系统 Chrome。工具 mcp__plugin_agent-browser_browser__agent_browser_*。",
+  "author": {
+    "name": "Ma2431"
+  },
+  "repository": "https://github.com/bruce2431/Floria-Plugin-agent-browser"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "floria-plugin-agent-browser",
+  "version": "0.2.0",
+  "description": "Floria plugin: agent-browser MCP (upstream CLI's built-in stdio server)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ma2431",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "agent-browser": "^0.42.0"
+  }
+}

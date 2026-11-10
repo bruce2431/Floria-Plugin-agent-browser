@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "browser": {
+      "command": "node",
+      "args": [
+        "${CLAUDE_PLUGIN_ROOT}/node_modules/agent-browser/bin/agent-browser.js",
+        "mcp",
+        "--tools",
+        "core"
+      ],
+      "env": {
+        "AGENT_BROWSER_IDLE_TIMEOUT_MS": "600000"
+      }
+    }
+  }
+}
